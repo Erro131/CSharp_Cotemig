@@ -1,0 +1,7 @@
+D:\C#\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.AssemblyReference.cache
+D:\C#\Atividade4\Atividade4\obj\Debug\Atividade4.csproj.CoreCompileInputs.cache
+D:\C#\Atividade4\Atividade4\bin\Debug\Atividade4.exe.config
+D:\C#\Atividade4\Atividade4\bin\Debug\Atividade4.exe
+D:\C#\Atividade4\Atividade4\bin\Debug\Atividade4.pdb
+D:\C#\Atividade4\Atividade4\obj\Debug\Atividade4.exe
+D:\C#\Atividade4\Atividade4\obj\Debug\Atividade4.pdb
