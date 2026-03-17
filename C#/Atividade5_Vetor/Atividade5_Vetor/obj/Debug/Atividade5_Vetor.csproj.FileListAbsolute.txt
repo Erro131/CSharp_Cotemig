@@ -1,0 +1,7 @@
+D:\C#\Atividade5_Vetor\Atividade5_Vetor\bin\Debug\Atividade5_Vetor.exe.config
+D:\C#\Atividade5_Vetor\Atividade5_Vetor\bin\Debug\Atividade5_Vetor.exe
+D:\C#\Atividade5_Vetor\Atividade5_Vetor\bin\Debug\Atividade5_Vetor.pdb
+D:\C#\Atividade5_Vetor\Atividade5_Vetor\obj\Debug\Atividade5_Vetor.csproj.AssemblyReference.cache
+D:\C#\Atividade5_Vetor\Atividade5_Vetor\obj\Debug\Atividade5_Vetor.csproj.CoreCompileInputs.cache
+D:\C#\Atividade5_Vetor\Atividade5_Vetor\obj\Debug\Atividade5_Vetor.exe
+D:\C#\Atividade5_Vetor\Atividade5_Vetor\obj\Debug\Atividade5_Vetor.pdb
