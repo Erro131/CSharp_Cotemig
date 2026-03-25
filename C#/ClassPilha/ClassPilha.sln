@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassPilha", "ClassPilha\ClassPilha.csproj", "{7BBD4208-8527-4574-9697-9AA177EA386B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBD4208-8527-4574-9697-9AA177EA386B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBD4208-8527-4574-9697-9AA177EA386B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBD4208-8527-4574-9697-9AA177EA386B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBD4208-8527-4574-9697-9AA177EA386B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A928D6E3-C121-4828-BE5D-4380E040170B}
+	EndGlobalSection
+EndGlobal

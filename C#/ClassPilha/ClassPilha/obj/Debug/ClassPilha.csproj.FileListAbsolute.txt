@@ -1,0 +1,7 @@
+H:\Visual Studio 2022\Projects\ClassPilha\ClassPilha\bin\Debug\ClassPilha.exe.config
+H:\Visual Studio 2022\Projects\ClassPilha\ClassPilha\bin\Debug\ClassPilha.exe
+H:\Visual Studio 2022\Projects\ClassPilha\ClassPilha\bin\Debug\ClassPilha.pdb
+H:\Visual Studio 2022\Projects\ClassPilha\ClassPilha\obj\Debug\ClassPilha.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\ClassPilha\ClassPilha\obj\Debug\ClassPilha.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\ClassPilha\ClassPilha\obj\Debug\ClassPilha.exe
+H:\Visual Studio 2022\Projects\ClassPilha\ClassPilha\obj\Debug\ClassPilha.pdb
